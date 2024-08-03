@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/dolore-iste-fuga-at",
-  "version": "4.3.88",
+  "version": "4.3.89",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -725,5 +725,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/dolore-iste-fuga-at/issues"
   },
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.4.0"
 }
